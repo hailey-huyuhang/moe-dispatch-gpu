@@ -328,3 +328,7 @@ bash profiling/run_ncu.sh warp
 python analysis/scaling_projection.py --max-gpus 64
 python analysis/plot_results.py
 ```
+
+## Study materials
+
+[Course reports, final submissions and source provenance](STUDY_INDEX.md).

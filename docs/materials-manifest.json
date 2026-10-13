@@ -1,0 +1,49 @@
+{
+  "prepared_date": "2026-10-12",
+  "repository": "hailey-huyuhang/moe-dispatch-gpu",
+  "files": [
+    {
+      "path": "reports/final-report.pdf",
+      "source": "https://www.gradescope.com/courses/1207156/assignments/7366971/submissions/410621529",
+      "kind": "document",
+      "original_sha256": "d107d2a8088ffad95a20d58c495083176671d9b53177cfa1500ec0c1676b3ece",
+      "sha256": "d107d2a8088ffad95a20d58c495083176671d9b53177cfa1500ec0c1676b3ece",
+      "original_git_blob": "ef287c95fbfc8bdf2d2a688409674404bbf204a3",
+      "git_blob": "ef287c95fbfc8bdf2d2a688409674404bbf204a3",
+      "size": 1383651,
+      "redactions": 0,
+      "notebook_outputs_retained": null,
+      "original_existing_paths": []
+    },
+    {
+      "path": "reports/final-report.txt",
+      "source": "https://www.gradescope.com/courses/1207156/assignments/7366971/submissions/410621529",
+      "kind": "readable report",
+      "original_sha256": "9205ca41fb2fb3ec95c4bc5390c01a00728762e01f6cfcf471e91dd13db5e030",
+      "sha256": "9205ca41fb2fb3ec95c4bc5390c01a00728762e01f6cfcf471e91dd13db5e030",
+      "original_git_blob": "4cd53d6feb05948f56512a6d49b066cb187c6e64",
+      "git_blob": "4cd53d6feb05948f56512a6d49b066cb187c6e64",
+      "size": 31677,
+      "redactions": 0,
+      "notebook_outputs_retained": null,
+      "original_existing_paths": []
+    },
+    {
+      "path": "STUDY_INDEX.md",
+      "source": "Prepared from the source records above",
+      "kind": "study index",
+      "original_sha256": "5f8d5d67f7dade6fca5635ccb70eec0f81640ee0d23c1224c7e52704b1af7350",
+      "sha256": "5f8d5d67f7dade6fca5635ccb70eec0f81640ee0d23c1224c7e52704b1af7350",
+      "original_git_blob": "5167197e18910530598caa50b35fa6af1a5b78d1",
+      "git_blob": "5167197e18910530598caa50b35fa6af1a5b78d1",
+      "size": 771,
+      "redactions": 0,
+      "notebook_outputs_retained": null,
+      "original_existing_paths": []
+    }
+  ],
+  "already_present": [],
+  "notes": [
+    "The Gradescope PDF and prior Overleaf PDF were compared page by page: text, images and page-content streams match; PDF metadata differs. Team authorship is retained in the report."
+  ]
+}
